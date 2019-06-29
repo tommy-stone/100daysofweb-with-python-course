@@ -1,0 +1,53 @@
+/*********** FLOAT DEMO ****************/
+body {
+    font-size: 24px;
+    padding: 0;
+}
+
+#top-div img {
+    float: right;
+    height: 96px;
+}
+
+#top-div {
+    background-color: #222;
+    color: white;
+    font-size: 48px;
+    padding: 10px;
+}
+
+#top-div .msg {
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+#navbar-left {
+  float: left !important;
+  margin-left: 15px;
+}
+
+#navbar-right {
+  float:  right !important;
+  margin-right: 15px;
+}
+
+a {
+    font-weight: bold;
+}
+
+.page-content {
+    font-size: 18px;
+    padding: 10px;
+}
+
+.logo-var {
+  color: #fff;
+}
+
+.logo-operator {
+  color: #fff;
+}
+
+.logo-key {
+  color: #fffd82;
+}
